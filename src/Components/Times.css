@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.time{
+    margin-top: 50px;
+}
+.times{
+    margin-top: 30px;
+
+}
+p{
+    margin-top: 30px;
+    font-size: x-large;
+}
